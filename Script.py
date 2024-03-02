@@ -140,4 +140,4 @@ I can't find the <b>{}</b> in my database! 🥲
 
 - ꜱᴏᴜʀᴄᴇ - <a href=https://github.com/Rishikesh-Sharma09/Auto-Filter-Bot>ʜᴇʀᴇ</a>
 
-- ᴅᴇᴠʟᴏᴘᴇʀ - @Rkbotz"""
+- ᴅᴇᴠʟᴏᴘᴇʀ - @SvFilmsX_Official"""
